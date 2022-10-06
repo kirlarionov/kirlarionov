@@ -1,5 +1,5 @@
 #### Hi there! 👋
-#### I`m a Front End Developer from Ukraine 🇺🇦
+#### My name is Kirill. I`m a Front End Developer from Ukraine 🇺🇦
 ___
 
 ### My Technology Stack & Tools:
