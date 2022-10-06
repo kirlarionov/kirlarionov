@@ -39,3 +39,7 @@ ___
    <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
    <img src="https://img.shields.io/badge/asana-273347?style=for-the-badge&logo=asana&logoColor=white"/>
 </p>
+
+___
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="16px"/>  **I'm on Facebook**  ](https://www.facebook.com/kiril.larionov/ "link to my Facebook page")
