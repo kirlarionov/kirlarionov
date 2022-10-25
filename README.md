@@ -27,6 +27,11 @@ ___
 </p>
 
 <p>
+   <img src="https://img.shields.io/badge/jest-39ab37?style=for-the-badge&logo=jest&logoColor=913e56"/>
+   <img src="https://img.shields.io/badge/cypress-162332?style=for-the-badge&logo=cypress&logoColor=white"/>
+</p>
+
+<p>
    <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
    <img src="https://img.shields.io/badge/react router-black?style=for-the-badge&logo=reactrouter&logoColor=CA4245"/>
    <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white"/>
