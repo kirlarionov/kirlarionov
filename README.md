@@ -6,6 +6,7 @@ ___
 <p>
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=ЦВЕТ ЛОГОТИПА"/>
+   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </p>
