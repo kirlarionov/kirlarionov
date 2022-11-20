@@ -38,6 +38,7 @@ ___
    <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white"/>
    <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=BigCommerce&logoColor=white"/>
    <img src="https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+   <img src="https://img.shields.io/badge/mockapi-black?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 <p>
