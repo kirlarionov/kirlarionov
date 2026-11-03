@@ -3,7 +3,7 @@
 
 Building web apps with React & TypeScript.
 
-Currently working on **On-Bible** — an online Bible study platform:
+Currently working on **[On-Bible](https://on-bible.com)** — an online Bible study platform:
 
 - 📖 **Online Bible** — multi-translation reader with full-text search, side-by-side translation comparison, verse highlights, notes and much more
 - 🎓 **Courses** — lesson builder with video, audio, image sliders and quizzes
