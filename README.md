@@ -1,5 +1,18 @@
 #### Hi there! 👋
 #### My name is Kirill. I'm a Front End Developer 🇺🇦
+
+Building web apps with React & TypeScript.
+
+Currently working on **On-Bible** — an online Bible study platform:
+
+- 📖 **Online Bible** — multi-translation reader with full-text search, side-by-side translation comparison, verse highlights, notes and much more
+- 🎓 **Courses** — lesson builder with video, audio, image sliders and quizzes
+- 📝 **Notes** — rich-text editor with drawing, slides mode and autosave
+- 💬 **Community** — Q&A and real-time chats
+- 🛠️ **Admin panel** — course management, access roles and learning analytics
+
+…and much more — from multi-language UI and dark theme to guest onboarding and E2E test coverage.
+
 ___
 
 ### Core
