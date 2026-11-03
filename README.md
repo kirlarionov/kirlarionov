@@ -64,4 +64,6 @@ ___
 
 ___
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="16px"/>  **I'm on Facebook**](https://www.facebook.com/kiril.larionov/ "link to my Facebook page")
+<a href="https://www.facebook.com/kiril.larionov/">
+   <img src="https://img.shields.io/badge/I'm_on_Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
